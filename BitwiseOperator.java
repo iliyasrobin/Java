@@ -20,6 +20,7 @@ public class BitwiseOperator {
         
         //rightshift : ba dik theke dan dike joto ghor shift kora dorkar ta shore ashbe
         // mane ba dik theke 2 diye vag kore shift porjonto ashbe 
+        // shift joto thakbe totobar value ta k 2 diye vag kora
         
         y = x >> 2; // ekhane 2 hocche shift shongkha
         System.out.println("Rightshift: "+y);
@@ -27,6 +28,7 @@ public class BitwiseOperator {
         
         //leftshift : dan dik theke ba dike joto ghor shift kora dorkar ta shore ashbe
         // mane dan dik theke 2 diye gun kore shift porjonto ashbe 
+        // shift joto thakbe totobar value ta k 2 diye gun kora
         
         y = x << 2;
         System.out.println("Leftshift : "+y);
