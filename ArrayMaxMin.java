@@ -30,7 +30,7 @@ public class ArrayMaxMin {
             }
         }
         System.out.println("Max is: "+max);
-        System.out.println("Max is: "+min);
+        System.out.println("Min is: "+min);
         
        
     }
